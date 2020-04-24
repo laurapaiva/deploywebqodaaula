@@ -134,7 +134,7 @@ window.addEventListener('mouseup', e => {
                 labels: ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
                 datasets: [{
                     backgroundColor: 'rgba(247, 127, 155, 0.5)',
-                    borderColor: 'red',
+                    borderColor: 'black',
                     data: preds,
                     borderWidth: 2
                 }]
